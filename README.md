@@ -1,4 +1,4 @@
-
+# Geometric flow regularization in latent spaces for smooth dynamics with the efficient variations of curvature
 
 
 This is the implementation of Geometric flow regularization in latent spaces with the efficient variations of curvature.
