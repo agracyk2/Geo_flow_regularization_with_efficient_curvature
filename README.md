@@ -9,4 +9,4 @@
 
 This is the implementation of Geometric flow regularization in latent spaces with the efficient variations of curvature.
 
-Paper to be released late June, depending on how well collecting results goes. Code to be released at some point. Please contact me directly if you are interested in this code.
+Paper to be released late June, depending on how well collecting results goes, although a rough draft is contained in this repository. Code to be released at some point. Please contact me directly if you are interested in this code.
